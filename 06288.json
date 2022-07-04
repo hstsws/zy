@@ -308,24 +308,9 @@
 { "key": "(18+)100ai", "name": "(18+)100ai", "type": 0, "api": "http://www.010aizy.com/API/maxs.php", "searchable": 1, "quickSearch": 1, "filterable": 0 }, 
 { "key": "(18+)速播资源", "name": "(18+)速播资源", "type": 1, "api": "http://api.suboapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 }, 
 { "key": "(18+)浪潮资源", "name": "(18+)浪潮资源", "type": 1, "api": "http://langchaozy6.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "91md", "name": "91md", "type": 1, "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/", "tag": "qb,tj,rm",  "categories": []
-         },{
-          "key": "影库资源",
-          "name": "影库资源",
-          "type": 1,
-          "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
-          "tag": "qb,tj",
-          "categories": []
-         }, 
-  {
-      "key": "速播",
-      "name": "速播",
-      "type": 1,
-      "api": "https://api.suboapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+{"key": "91md", "name": "91md", "type": 1, "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/", "tag": "qb,tj,rm",  "categories": []  },
+{  "key": "影库资源",  "name": "影库资源",  "type": 1,  "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",   "tag": "qb,tj", "categories": []  }, 
+{  "key": "速播",  "name": "速播",      "type": 1,  "api": "https://api.suboapi.com/api.php/provide/vod/", "searchable": 1,  "quickSearch": 1, "filterable": 0   },
     {
       "key": "美少女",
       "name": "美少女",
