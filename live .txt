@@ -3990,107 +3990,38 @@ WEN鞋评+WEN鞋评：阿马鲁实战,http://111.62.156.15/tx.flv.huya.com/src/1
 全球,#genre#
 亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8?zshijd
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
-CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
-CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
-CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
-CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
-CGTN阿拉伯语,http://livear.cgtn.com/1000a/prog_index.m3u8?zshijd
-CGTN拉丁美洲,http://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
-CGTN美国,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
-CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
-俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
-韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-韩国EBS_E频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8?zshijd
-韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8?zshijd
-韩国TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8?zshijd
-韩国职业广播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?zshijd
-印尼_TVRIKanal3,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?zshijd
-f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8?zshijd
-f时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
-KH_FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
-KH_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?zshijd
-KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?zshijd
-NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
-美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-KH_TV9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?zshijd
-CNA(1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
-群马テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
-Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-NHK,http://203.162.235.41:16901
-NHK-综合,http://203.162.235.41:16903
-Fuji TV,http://203.162.235.41:16904
-TV Asahi,http://203.162.235.41:16906
-BS Nippon TV,http://203.162.235.41:16912
-BS TBS,http://203.162.235.41:16913
-BS Asahi,http://203.162.235.41:16914
-BS Tokyo,http://203.162.235.41:16915
-WOWOW Prime,http://203.162.235.41:16916
-QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-MTN,http://183.110.27.87/mtnlive/720/playlist.m3u8
-NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-KCTV ??,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-CTS TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
-CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
-KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
-SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
-SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
-SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
-SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
-SBS-Biz,http://ye23.win/iptv/sbs5.1.php?id=S06
-SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
-SBS-GorealraM,http://ye23.win/iptv/sbs5.1.php?id=S19
-SBS-POWER,http://ye23.win/iptv/sbs5.1.php?id=S07
-SBS-LOVE,http://ye23.win/iptv/sbs5.1.php?id=S08
-Good TV,http://ye23.win/iptv/korea2021.php?id=Good
-cpbc,http://ye23.win/iptv/korea2021.php?id=cpbc
-bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
-myStream,http://ye23.win/iptv/korea2021.php?id=myStream
-MTN,http://ye23.win/iptv/korea2021.php?id=MTN
-Channel A,http://ye23.win/iptv/korea2021.php?id=Channela
-YTN,http://ye23.win/iptv/korea2021.php?id=ytn
-Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
-TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
-KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
-EBS 1,http://ye23.win/iptv/korea2021.php?id=EBS1
-EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
-EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
-EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
-EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
-EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
-Nippon TV,http://203.162.235.41:16905
-TBS,http://203.162.235.41:16907
-NHK BSP,http://203.162.235.41:16910
-BS Fuji,http://203.162.235.41:16911
-ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-한국선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-dema,http://ye23.win/iptv/korea2021.php?id=dema
+第一式
+松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+潘朵拉粉紅,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
+潘朵拉完美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
+HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+驚豔台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+極限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+彩虹電影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+K頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+澳視,mitv://fccs.word-tv.com:9906/62685209000bd522002f77760f5e6638
+澳視二,mitv://fccs.word-tv.com:9906/6268522f000aa0b200300b97a3d1af63
+彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
+性愛教主,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
+ＶＥＮＵＳ ,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+做愛特教班 ,mitv://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
+奶奶按摩店 ,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
+AV女王 ,mitv://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
+人妻不倫 ,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
+水多多 ,mitv://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
+近親相姦 ,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
+彩虹通道 ,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
+PLAYBOY HD,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
+KMP 頻道 ,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
+午夜蓝 ,mitv://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
+櫻桃 ,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
+大學女援交妹 ,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
+做愛輸入 ,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
