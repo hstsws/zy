@@ -1,11 +1,12 @@
 {
 
 //"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/0630.jar",
-"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/0701.jar",
+"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/0704.jar",
 
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC93ZWl4aW5fNDcyMDQzNTYvenkvLS9yYXcvbWFzdGVyL3R2L2JjLnR4dA=="]}]}],
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC93ZWl4aW5fNDcyMDQzNTYvenkvLS9yYXcvbWFzdGVyL2xpdmUlMjAudHh0"]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC93ZWl4aW5fNDcyMDQzNTYvenkvLS9yYXcvbWFzdGVyL2xpdmUlMjAudHh0"]}]}],
+
 
 
 "sites":[
