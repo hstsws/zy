@@ -1,4 +1,5 @@
 央视,#genre#
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 CCTV-1综合,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV-2财经,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
 CCTV-3综艺,http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
