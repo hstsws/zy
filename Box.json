@@ -510,5 +510,10 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
+<<<<<<< HEAD
   "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar"
 }
+=======
+  "spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/custom_spider.jar"
+}
+>>>>>>> 1aac650b79bedfef877b8fee5a347771f80ed46e
