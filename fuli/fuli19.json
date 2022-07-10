@@ -1,6 +1,6 @@
 {
-"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/qiaoji66.jar",
-//"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/ts0708.jar",
+//"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/qiaoji66.jar",
+"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/ts0709.jar",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
