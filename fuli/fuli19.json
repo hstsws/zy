@@ -3,9 +3,6 @@
 //"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/ts0709.jar",
 
 "sites": [
-
-
-{"key":"18影院","name":"↓18影院↓","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml"},
 	{"key":"环","name":"*环","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 	{"key":"狼","name":"狼","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 	{"key":"富","name":"富","type":0,"api":"http://f2dcj6.com/sapi/?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
