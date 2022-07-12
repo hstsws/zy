@@ -15,9 +15,7 @@
 
 
 "sites":[
-  { "key":"csp_xpath_lezhutv",  "name": "乐猪TV(XPM)",  "type":3, "api":"csp_XPathMac",    "searchable":1, "quickSearch":1,  "filterable":0, "ext":"https://gitcode.net/weixin_47204356/tvbox/-/raw/master/MeowXB/lezhutv.json"},
 
-  { "key": "csp_XBiubiubiubiu_lezhu", "name": "乐猪(XB)","type": 3, "api": "csp_XBiubiu",  "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "https://gitcode.net/weixin_47204356/tvbox/-/raw/master/MeowXB/b13-lezhu.js"
 },  {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
