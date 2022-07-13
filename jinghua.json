@@ -1,5 +1,5 @@
 {
-"spider":"http://home.jundie.top:81/TVBox/0712.jar",
+"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/p0712.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9UVkJveC90di9iYy50eHQ="]}]}],
 
