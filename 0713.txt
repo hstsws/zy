@@ -1,6 +1,9 @@
 {
 // spider
-"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/p0712.jar",
+//"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/p0712.jar",
+"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/qiaoji66.jar",
+//"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/ts0708.jar",
+
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
