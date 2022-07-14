@@ -594,106 +594,7 @@ DG相声,http://txtest-xp2p.p2p.huya.com/src/1259519540050-1259519540050-6902425
 搞笑,http://txtest-xp2p.p2p.huya.com/src/1391381950-1391381950-5975939971494707200-2782887356-10057-A-0-1.xs
 Эфирные,https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
-体育😜频道,#genre#
-爱尔达体育1,rtmp://59.124.75.138/sat/md011
-爱尔达体育1,rtmp://59.124.75.157/sat/md011
-爱尔达体育2,rtmp://59.124.75.138/sat/md051
-爱尔达体育2,rtmp://59.124.75.157/sat/md051
-爱尔达体育3,rtmp://59.124.75.138/sat/md021
-爱尔达体育3,rtmp://59.124.75.157/sat/md021
-ELEVEN体育一台,rtmp://59.124.75.138/sat/tv731
-ELEVEN体育一台,rtmp://59.124.75.157/sat/tv731
-ELEVEN体育二台,rtmp://59.124.75.138/sat/tv741
-ELEVEN体育二台,rtmp://59.124.75.157/sat/tv741
-ELEVEN体育二台,rtmp://59.124.75.138/sat/md041
-ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
-广东体育 我这儿不卡,http://py.fatcat.icu:8880/hls/5/index.m3u8
-广东体育 低码,http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
-广东体育 低码,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-五星体育 低码,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-五星体育 高码,http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
-五星体育 高码,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-天津体育,http://anyun-ship.com:8888/udp/225.1.1.122:5002
-天津体育,http://60.26.13.99:9901/tsfile/live/0111_1.m3u8
-山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
-北京冬奥纪实,http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8
-北京冬奥纪实,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
-成都公共,http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
 
-全球😛频道,#genre#
-Berat TV,http://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w222121824.m3u8
-Diyar TV,http://yerelmedya.tv:1935/diyartv/bant1/HasBahCa.m3u8
-Dost TV,https://dost.stream.emsal.im/tv/live.m3u8
-KANAL 12 TV,http://yerelmedya.tv:1935/kanal12/bant1/HasBahCa.m3u8
-Kudüs TV,https://yayin30.haber100.com/live/kudustv/HasBahCa.m3u8
-Minber TV,http://hd9994.4kradyotv.com:26606/minbertv/minbertv/HasBahCa.m3u8
-Rehber TV,https://yayin30.haber100.com/live/rehbertv/HasBahCa.m3u8
-Vuslat TV (720p) [Not 24/7],https://59cba4d34b678.streamlock.net/live/vuslattv/HasBahCa.m3u8
-VUSLAT TV HD,http://waw1.artiyerelmedya.net:1935/vuslattv/bant1/playlist.m3u8
-Albayrak Ajans,https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/HasBahCa.m3u8
-Anka,http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
-Bayraklı TV,http://tivi88.ozelip.com:2052/bayraklitv/bayraklitv/HasBahCa.m3u8
-Beyaz Medya Müzik,https://beyazmedyatv.yayin.com.tr/beyazmedya-muzik/video.m3u8
-Beyaz Medya Sinema,https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-Beyaz Medya Yeşilçam,https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
-Bilsen Bizim TV,http://51.254.48.123:2052/bilsem/bilsem/chunklist.m3u8
-Bilsen Bizim TV,http://51.254.48.123:2052/bilsem/bilsem/HasBahCa.m3u8
-CAN TV,http://canbroadcast.com:7000/canlican/tv.m3u8
-Can TV 24,https://cdn10-cantv24.yayin.com.tr/cantv24/cantv24/chunklist_w1996358919.m3u8
-Cinemidi,https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/HasBahCa.m3u8
-Dadaş TV,http://aktif2830.ozelip.com:30124/dadastv/dadastv/HasBahCa.m3u8
-Finest TV,http://media.finest.tv/hls/live.m3u8
-iLK ZiRVE TV HD,https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist_w1446649505.m3u8
-Lalegül TV,http://lalegultv.netmedya.net/hls/lalegultv.m3u8
-Luys TV,https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-Misket TV,http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
-MiSKET TV HD,http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
-MODA TV FM,http://modafm52300.ozelip.com:28008/modafm/modafm/chunklist.m3u8
-MSCB KANAL 2000 ydk,https://waw1.artiyerelmedya.net/kanal2000/bant1/chunks.m3u8
-NOSTALJI,https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
-OSB TV,https://broadcasttr.com:446/kayseriosb/bant1/HasBahCa_w1586814739.m3u8
-Sancak TV,https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
-Sancak TV,https://2.rtmp.org/tv219/yayin.stream/HasBahCa.m3u8
-TEMPO TV,http://yerelmedya.tv:1935/tempotv/bant1/HasBahCa.m3u8
-TiVi 6 HD,https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
-Toprak TV,https://59cba4d34b678.streamlock.net/canlitv/topraktv/HasBahCa.m3u8
-WOMAN TV HD,http://s01.vpis.io/wmtv/wmtv.m3u8
-Yol TV,http://stream.yol.tv:9485/medialive/yol.m3u8
-360 TV HD TR,http://5.254.16.186:80/360TV/mono.m3u8
-AKIT TV,http://akittv-live.ercdn.net/akittv/akittv.m3u8
-Anadolu Ajansı,http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
-ASTV HD TR,http://5.254.16.186:80/ASTV/mono.m3u8
-BELGESEL,https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
-BENGÜ TÜRK,https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
-Beyaz TV,https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-Briç ve Satranç TV,http://139.162.182.79/live/test/index.m3u8
-BUSiNESS CHANNEL TURK HD,https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
-Can TV 24,https://cdn10-cantv24.yayin.com.tr/cantv24/cantv24/HasBahCa_w1996358919.m3u8
-DMAX,https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
-DMAX HD,http://195.155.98.170:5858/play/a0a4
-FLASH TV HD,https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
-GS TV,https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-GS TV HD,https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-Kanal 7,https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-NTV (yedek),https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
-OLAY TV HD,http://nrttn172.kesintisizyayin.com:29010/olay/olay/HasBahCa.m3u8
-SHOW,https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-STAR TV,http://195.155.98.170:5858/play/a09w
-STAR TV FHD,https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-STAR TV HD,http://195.155.98.170:5858/play/a09z
-TGRT Belgesel,https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/HasBahCa.m3u8
-TGRT Belgesel,https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
-TLC,https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
-TLC HD,http://195.155.98.170:5858/play/a0a5
-TRT 1,http://195.155.98.170:5858/play/a09j
-TRT 2,http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
-TRT 2,http://167.114.115.233:8080/trt2fhd/index.m3u8
-TRT 2 HD,http://195.155.98.170:5858/play/a09p
-TRT BELGESEL,http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-TRT BELGESEL,http://195.155.98.170:5858/play/a09o
-TRT BELGESEL HD,http://195.155.98.170:5858/play/a09f
-Yaban TV,https://59cba4d34b678.streamlock.net/live1/yabantv/HasBahCa.m3u8
-YABAN TV HD,http://yayin3.sanaltv.com:1935/live1/yabantv/HasBahCa.m3u8
 
 数字😎频道,#genre#
 CGTN国际频道,http://live.cgtn.com/1000/prog_index.m3u8?$全网标清576P
@@ -715,7 +616,7 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8?$全网标清576P
 CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8?$全网标清576P
 
 
-菜鸟💋频道_8523,#genre#
+菜鸟💋频道,#genre#
 Exstasy HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 C人直播,http://46.174.83.66/Russkaya_Noch/video.m3u8
 M豆传媒269,https://video2.51daao.com/btt1/2021/01/20210116/gPuFVXQX/index.m3u8 
