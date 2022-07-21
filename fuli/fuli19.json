@@ -1,7 +1,7 @@
 {
-//"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/qiaoji66.jar",
+"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/top921.jar",
 //"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/ts0709.jar",
-"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
+//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
 
 "sites": [
 	{"key":"环","name":"*环","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
