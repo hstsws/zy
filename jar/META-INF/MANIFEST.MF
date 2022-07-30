@@ -1,0 +1,550 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 8rUqwcsVDfiyibkisVRfvDdSMpY=
+
+Name: LICENSE.txt
+SHA1-Digest: eMjb1SwPyZz55NoPpSkR657YuQo=
+
+Name: assets/a18.png
+SHA1-Digest: XUk0eWu9c956bgQvZ3zGvfDlfrI=
+
+Name: assets/a1b.png
+SHA1-Digest: UAql7cHy/lJLJ9+8R3M2ktVgplE=
+
+Name: assets/about.txt
+SHA1-Digest: C91EHRFNzGCRvc2OopWrFaoRfZg=
+
+Name: assets/bf.png
+SHA1-Digest: 3BEF42jsQOgMdpu8AIB4y/aPAhE=
+
+Name: assets/biu/api.html
+SHA1-Digest: MmH5MdnM3sTH51SAxJHEQGQCEv4=
+
+Name: assets/biu/jquery.js
+SHA1-Digest: d3UbgmL3MRRIRQz674u2BpeFHDc=
+
+Name: assets/biu/script.js
+SHA1-Digest: T0e+7BXt1Z0zEYSx4eR221SJV7c=
+
+Name: assets/changpian.png
+SHA1-Digest: fl5jJRHYz2O5GMctpvfuI1/ao6k=
+
+Name: assets/fanhui44.png
+SHA1-Digest: Lw92B6YNQpAsAYo2PMkAlRkvZv8=
+
+Name: assets/guanbi.png
+SHA1-Digest: ELZfLPHjANlNfwmrFF3xTte4DVE=
+
+Name: assets/logo.png
+SHA1-Digest: Vep7YxqCcblt6S+fHMUs63xC+uM=
+
+Name: assets/qiehuan.png
+SHA1-Digest: c2T04+PP/pAPm4Wg7+1GB6NVKBc=
+
+Name: assets/shaixuan.png
+SHA1-Digest: AjEz4F7PKfcURKQP9BtnS7nTY7k=
+
+Name: assets/sousuoguanbi.png
+SHA1-Digest: R2DqactkY4gJxaaS2bc+gmhJ5NE=
+
+Name: assets/xiayiji.png
+SHA1-Digest: yzeuqxFEyWy85vojNosnE+r0DlE=
+
+Name: assets/xiazai.png
+SHA1-Digest: ksYEjvrhApQonFLYDlOtrCgbd04=
+
+Name: assets/yc.html
+SHA1-Digest: c8lQD5/Vi/6DRm6eYO2bfItP/Ps=
+
+Name: assets/zt.png
+SHA1-Digest: 4etPsRDuty/7psotCU0mkLd+llM=
+
+Name: classes.dex
+SHA1-Digest: oqxlu53poFfCK1HUiCGhR19Rl1o=
+
+Name: lib/arm64-v8a/libarm.so
+SHA1-Digest: Dw1Y315xxtxzI16/ql/eHWM2ojA=
+
+Name: lib/arm64-v8a/libijkffmpeg.so
+SHA1-Digest: qNEbhHTdtq9515r55R8g2o7Lblo=
+
+Name: lib/arm64-v8a/libijkplayer.so
+SHA1-Digest: KM2qbwIS7TT3yQ2zeicLxwBkkjE=
+
+Name: lib/arm64-v8a/libijksdl.so
+SHA1-Digest: djp80IZIOVAe3kkMJegQM5e5cFk=
+
+Name: lib/armeabi-v7a/libarm.so
+SHA1-Digest: dBJZ8zXBMr38WxTdCCX2No6w7YE=
+
+Name: lib/armeabi-v7a/libijkffmpeg.so
+SHA1-Digest: P8Ir9vpwjekdFu4n1myyHbdsNCs=
+
+Name: lib/armeabi-v7a/libijkplayer.so
+SHA1-Digest: sBGzaPru42pmIF2pQeaZgXB/28A=
+
+Name: lib/armeabi-v7a/libijksdl.so
+SHA1-Digest: d4+zaESwUwv6KzY8Ib3IeYwwIzw=
+
+Name: org/teleal/common/schemas/xhtml1-strict.xsd
+SHA1-Digest: nqFtOMBp9sA4h22KdG6G/E/CtNI=
+
+Name: org/teleal/common/schemas/xml.xsd
+SHA1-Digest: gjDrO5ouEpCNICsEu4Rw2uA0cuE=
+
+Name: org/teleal/common/swingfwk/logging/img/configure.png
+SHA1-Digest: wVg94wzqBeV004gjJX/JDYNlRBA=
+
+Name: org/teleal/common/swingfwk/logging/img/copyclipboard.png
+SHA1-Digest: s/ZwgDMBd/WNBtXUr+zAQ7jSDgU=
+
+Name: org/teleal/common/swingfwk/logging/img/debug.png
+SHA1-Digest: R/Fldbfhzd2VBHl4yNSLrcWVRjk=
+
+Name: org/teleal/common/swingfwk/logging/img/info.png
+SHA1-Digest: ud4+ylDjb4n4B3uKUeujs4Bi81E=
+
+Name: org/teleal/common/swingfwk/logging/img/pause.png
+SHA1-Digest: /sR0+ZwRak613vNIQmeJc3175Fk=
+
+Name: org/teleal/common/swingfwk/logging/img/removetext.png
+SHA1-Digest: 9svZ+DsmTaP2omqj5kiTJL6f1sQ=
+
+Name: org/teleal/common/swingfwk/logging/img/trace.png
+SHA1-Digest: ohg6C+jzTxzrGT1yEwUel9VTczk=
+
+Name: org/teleal/common/swingfwk/logging/img/viewtext.png
+SHA1-Digest: H4oCc/BKMNhl2Ur2Wp7b9xxZYiY=
+
+Name: org/teleal/common/swingfwk/logging/img/warn.png
+SHA1-Digest: 5frBDTHx47ho7KUnxiN4KFXWuKI=
+
+Name: publicsuffixes.gz
+SHA1-Digest: +bdceAw9yQ7uKnkFzDSoze/ZLGc=
+
+Name: res/anim/mz_right_hide.xml
+SHA1-Digest: 5CuYMS62KW0vQ0WiDhiky4agpO4=
+
+Name: res/anim/mz_right_show.xml
+SHA1-Digest: KdtVL0J1sPLCCq8uZnQXJ8loylg=
+
+Name: res/color/mz_selector_option_text.xml
+SHA1-Digest: CZbSx9hSlZNwDqtb1nY0Jn+9qgU=
+
+Name: res/drawable-hdpi-v4/logo.png
+SHA1-Digest: xeiOoZlhjIuhjxw6sq/Fv4YMM0w=
+
+Name: res/drawable-mdpi-v4/logo.png
+SHA1-Digest: xeiOoZlhjIuhjxw6sq/Fv4YMM0w=
+
+Name: res/drawable-xhdpi-v4/logo.png
+SHA1-Digest: xeiOoZlhjIuhjxw6sq/Fv4YMM0w=
+
+Name: res/drawable-xhdpi-v4/mz_back.png
+SHA1-Digest: 5Op1iMRihU7EXV4x0E2UjX5Iuw0=
+
+Name: res/drawable-xhdpi-v4/mz_battery_base.png
+SHA1-Digest: BBEt1oBBiFSeGlQUBB0LW0mQMeE=
+
+Name: res/drawable-xhdpi-v4/mz_battery_charge.png
+SHA1-Digest: TxDCIh6i2ytRclvzPvDGDeP1z5s=
+
+Name: res/drawable-xhdpi-v4/mz_bright.png
+SHA1-Digest: SwylE0Dg+tOcxX2N+73sQmbp8rw=
+
+Name: res/drawable-xhdpi-v4/mz_lock.png
+SHA1-Digest: 50eBL/9WEXHzGyTJ4XHCPna+C+I=
+
+Name: res/drawable-xhdpi-v4/mz_pause.png
+SHA1-Digest: Uxs5iZidIy5AtXT+P7g/3uYUDMs=
+
+Name: res/drawable-xhdpi-v4/mz_play.png
+SHA1-Digest: 4kPMFWhZyCCDDSZLGKDx0KDR/Kw=
+
+Name: res/drawable-xhdpi-v4/mz_play_back.png
+SHA1-Digest: tcbWIkn2Jpqhb/lAhLV7z6BIdZg=
+
+Name: res/drawable-xhdpi-v4/mz_play_go.png
+SHA1-Digest: NOk1+wWQ+gJ0DttitgV1CU20s/c=
+
+Name: res/drawable-xhdpi-v4/mz_tiny_close.png
+SHA1-Digest: XfT1UICOrRSBhzg9W/93SpbZV+8=
+
+Name: res/drawable-xhdpi-v4/mz_tiny_end.png
+SHA1-Digest: M4W50l+BsdsYTrS+KuZtFqZNCyA=
+
+Name: res/drawable-xhdpi-v4/mz_tiny_start.png
+SHA1-Digest: QSdP/iNJBsZcT2v+k8WMZFbcsqw=
+
+Name: res/drawable-xhdpi-v4/mz_to_full.png
+SHA1-Digest: ETX2bsYOzh4DdgciP9Rq8GvU8KE=
+
+Name: res/drawable-xhdpi-v4/mz_to_tiny.png
+SHA1-Digest: fD9tr6Uo0n7nFI49TcKJbNMGIeM=
+
+Name: res/drawable-xhdpi-v4/mz_unlock.png
+SHA1-Digest: oQXsgtfQXQF4doKAM4dc3tUdeLI=
+
+Name: res/drawable-xhdpi-v4/mz_volume_base.png
+SHA1-Digest: XigCPhfAuDfIqrkiuU8dbu8OgU8=
+
+Name: res/drawable-xhdpi-v4/mz_volume_close.png
+SHA1-Digest: ehNg9VDIFGRhJHKgrqwCZshFn3c=
+
+Name: res/drawable-xxhdpi-v4/logo.png
+SHA1-Digest: xeiOoZlhjIuhjxw6sq/Fv4YMM0w=
+
+Name: res/drawable-xxxhdpi-v4/logo.png
+SHA1-Digest: xeiOoZlhjIuhjxw6sq/Fv4YMM0w=
+
+Name: res/drawable/bg_sousuobiaoqian.xml
+SHA1-Digest: uavm696FBmZCO9Y9rVSeSPcwZR0=
+
+Name: res/drawable/bianjikuangzuo.xml
+SHA1-Digest: L/V/eJEC0PPbJ7phvtY899fVS0U=
+
+Name: res/drawable/bj.xml
+SHA1-Digest: h02Ae/DjL+Ueh+uogh3q5L+cYdA=
+
+Name: res/drawable/bofang_biaoqian.xml
+SHA1-Digest: 5U4VkOpdty/Ea7zVUbV8EnaVJ5c=
+
+Name: res/drawable/bofang_biaoqianxz.xml
+SHA1-Digest: XdQEUG3Y178wQKGkQaSiSNYAJis=
+
+Name: res/drawable/bofang_piantoupianwei.xml
+SHA1-Digest: m68BzmY68T5Thdw4fDuyOyqx1cU=
+
+Name: res/drawable/bofang_pianweibiaoqianxz.xml
+SHA1-Digest: NrVT6Z/25+vErcUrnjgFAqeg+FA=
+
+Name: res/drawable/bofang_xuanji.xml
+SHA1-Digest: zb3rUp3AsQBoHUXHXxT2dTo3IS4=
+
+Name: res/drawable/ds_pianweibiaoqian.xml
+SHA1-Digest: 5U4VkOpdty/Ea7zVUbV8EnaVJ5c=
+
+Name: res/drawable/fenhongbiaoqian.xml
+SHA1-Digest: eBd3GTwT6C5ecKtDDWmvBRyncFw=
+
+Name: res/drawable/gjlbkxzbg.xml
+SHA1-Digest: YrpOOHfg8IWjnvNQYr6BE1ofUPI=
+
+Name: res/drawable/liebiao.xml
+SHA1-Digest: MrQB05MXuEiDC5fDNyOIyVAzNRI=
+
+Name: res/drawable/line.png
+SHA1-Digest: 3ARl32W6JaTXEsRJx0mCxqX71Ho=
+
+Name: res/drawable/loading.png
+SHA1-Digest: i08AIBDBrkyrO15p9W0KrdUoelM=
+
+Name: res/drawable/logo.png
+SHA1-Digest: xeiOoZlhjIuhjxw6sq/Fv4YMM0w=
+
+Name: res/drawable/mianze_biaoqian.xml
+SHA1-Digest: 2UUioYVNtWCTEM+NUlddWgGezK8=
+
+Name: res/drawable/morenbg.xml
+SHA1-Digest: Yl1WlxF70oPq2KbwTRvft1NzpaE=
+
+Name: res/drawable/mz_bg_battery.xml
+SHA1-Digest: GKDowKSkGrZJ8NiOntsar8/10/Y=
+
+Name: res/drawable/mz_bg_battery_charge.xml
+SHA1-Digest: Rb91gu4CNrCu82syePrxHSgd76Y=
+
+Name: res/drawable/mz_bg_bright.xml
+SHA1-Digest: 0w+3MofpmV9mQLKbWId51bfULko=
+
+Name: res/drawable/mz_bg_connect_type.xml
+SHA1-Digest: 6ZddhWKe91TcDZwZR0Ss6pNYBRk=
+
+Name: res/drawable/mz_bg_controller_bottom.xml
+SHA1-Digest: dWvJszExkCgB5KmAp5VOze6Ew2Y=
+
+Name: res/drawable/mz_bg_controller_top.xml
+SHA1-Digest: 4U7HWl4yg1rRG4ssxO+O/GS7oVM=
+
+Name: res/drawable/mz_bg_play_back.xml
+SHA1-Digest: WJ5WCbePD/rZwD54867pYQxG6Ts=
+
+Name: res/drawable/mz_bg_play_go.xml
+SHA1-Digest: YJuJhmQZAqQVBxd/DT7vQjYbMpM=
+
+Name: res/drawable/mz_bg_volume.xml
+SHA1-Digest: oGt1xM5NQgfa1bSf/HavVwbDjfQ=
+
+Name: res/drawable/mz_bg_volume_close.xml
+SHA1-Digest: ZQ/E7a031jtWtF8b2vv3N+nWFV0=
+
+Name: res/drawable/mz_progress_battery.xml
+SHA1-Digest: IPQYi2/LflPUBIXi70GjaUI6nHg=
+
+Name: res/drawable/mz_progress_seek.xml
+SHA1-Digest: /tC1y8vncGWJcIOXMXrt/shRF+E=
+
+Name: res/drawable/mz_selector_back.xml
+SHA1-Digest: g17AyxY2wLGrsdZsl2zpdxdOQJI=
+
+Name: res/drawable/mz_selector_lock.xml
+SHA1-Digest: xg1qAqT9zLyD4UsH3jqnikOKCmM=
+
+Name: res/drawable/mz_selector_option_bg.xml
+SHA1-Digest: uLgGn+kYLnzwxheU8cLmk4k736c=
+
+Name: res/drawable/mz_selector_option_bg_oval.xml
+SHA1-Digest: BoN3kBBecZ9/QcjTfZJyc4ZGouo=
+
+Name: res/drawable/mz_selector_pause.xml
+SHA1-Digest: 1Ium2sjiS/0Dj/9NTn71hN0nIUg=
+
+Name: res/drawable/mz_selector_play.xml
+SHA1-Digest: cnKtICJFdp2tXVrIVBZiIOndeLQ=
+
+Name: res/drawable/mz_selector_tiny_close.xml
+SHA1-Digest: e8ML+P/935LxMzYX2CiDjSykyng=
+
+Name: res/drawable/mz_selector_tiny_end.xml
+SHA1-Digest: I0e6PyDAIn8kkKVYSfjMKP2/LyM=
+
+Name: res/drawable/mz_selector_tiny_resume.xml
+SHA1-Digest: RiZueZ+czRGV36KOYrjAShk632U=
+
+Name: res/drawable/mz_selector_tiny_start.xml
+SHA1-Digest: zo6cBT4qyIMJ3mZig31zG92VLZI=
+
+Name: res/drawable/mz_selector_to_full.xml
+SHA1-Digest: RiZueZ+czRGV36KOYrjAShk632U=
+
+Name: res/drawable/mz_selector_to_tiny.xml
+SHA1-Digest: 5KqTu3PA0zFsINLIVXcJ521B3NM=
+
+Name: res/drawable/mz_selector_unlock.xml
+SHA1-Digest: vOSsan8aGzJA0ksE71PFx+AdaGU=
+
+Name: res/drawable/mz_thumb_seek.xml
+SHA1-Digest: Zy+J0up7xm2/Y72Zu9VdKbBqH3k=
+
+Name: res/drawable/pic2.png
+SHA1-Digest: K3qwh4NRvFVtoZbVV5Ni1MgAypE=
+
+Name: res/drawable/shadow.png
+SHA1-Digest: J0cVjw9H+njJcm/KHBVSdKcXv9s=
+
+Name: res/drawable/shaixuan_biaoqian.xml
+SHA1-Digest: cXb5TfHkRLiddzxuHHaXPEOirqs=
+
+Name: res/drawable/shaixuan_biaoqianxz.xml
+SHA1-Digest: ox+0WZA3vKSGowjEH+hdK72wX8o=
+
+Name: res/drawable/shoujibofang_biaoqian.xml
+SHA1-Digest: jrP62pGLtRT2cxdTRPsPZhBsmFE=
+
+Name: res/drawable/shoujibofang_biaoqianxz.xml
+SHA1-Digest: ox+0WZA3vKSGowjEH+hdK72wX8o=
+
+Name: res/drawable/shoujicaidanbiaoqian.xml
+SHA1-Digest: F63OKBMA2PYnNENj45lPN9wP3LU=
+
+Name: res/drawable/soo.png
+SHA1-Digest: Xn7bPbUGHb4SLxJMtHvCRdltEh0=
+
+Name: res/drawable/sousuo_jianpanbiaoqian.xml
+SHA1-Digest: nOFkmCvUa7m9DisZqLdugyeGH/4=
+
+Name: res/drawable/sousuobg.xml
+SHA1-Digest: DmishYsjpIZt+TTZz1bDf1tUifs=
+
+Name: res/drawable/sphou.xml
+SHA1-Digest: DhyIEeSCVOeZd7wUCW1exR42CMk=
+
+Name: res/drawable/spjiaodian.xml
+SHA1-Digest: O8wm0sxV6eMHFEltQ2Aoa9UujZc=
+
+Name: res/drawable/spqian.xml
+SHA1-Digest: MgtyAPDB8UftiRygQ8j4Dl4QA74=
+
+Name: res/drawable/szhibiaoqian.xml
+SHA1-Digest: 5U4VkOpdty/Ea7zVUbV8EnaVJ5c=
+
+Name: res/drawable/szhuye_biaoqian.xml
+SHA1-Digest: HnNebcSgDeU2MrNFrlPADypIJgI=
+
+Name: res/drawable/sztanchu_bianjikuang.xml
+SHA1-Digest: Lxlo+HR06LZdxduPF12YdJTKpvs=
+
+Name: res/drawable/tanchu_biaoqian.xml
+SHA1-Digest: 93G8m0ENNHGva3KhQMIDQKroGBc=
+
+Name: res/drawable/vcn_btbg_blue.xml
+SHA1-Digest: j3RMANGaDNUH/Ag+2a5xMoTFgZo=
+
+Name: res/drawable/wuqujiazai.png
+SHA1-Digest: IUyh6UEjP3txcD1qgd0+JgUvm/Y=
+
+Name: res/drawable/xuanzhongbg.xml
+SHA1-Digest: 96eTl6ky5AUh6m5XKD9hh2/4eCk=
+
+Name: res/drawable/zhuye_beiyong.xml
+SHA1-Digest: 855iEmIhZZe2PX8D7yMey4ZUobs=
+
+Name: res/drawable/zhuye_biaoqian.xml
+SHA1-Digest: cq9SXNnukldOYGwBOXfEvvEUXSA=
+
+Name: res/drawable/zhuye_dianshiju.xml
+SHA1-Digest: AKEA+I2jYvxyvANrCC32pxSGqX0=
+
+Name: res/drawable/zhuye_dianying.xml
+SHA1-Digest: iLSsVFDZ9M5hnddtlC7zq8+yq6g=
+
+Name: res/drawable/zhuye_dongman.xml
+SHA1-Digest: fF+0bM7gd8MOKN+azdW1zTMN2GU=
+
+Name: res/drawable/zhuye_lunbo.xml
+SHA1-Digest: 7/DIE4hN9NV7tDrh/Y4/YhZ0LNk=
+
+Name: res/drawable/zhuye_tiyu.xml
+SHA1-Digest: N/ein6sVcJinJOfXHTIMV4TaeBU=
+
+Name: res/drawable/zhuye_tupian.xml
+SHA1-Digest: 319pZVcz5BjIFqWp41v86pOjhKY=
+
+Name: res/drawable/zhuye_zanzhu.xml
+SHA1-Digest: LhxhTMk17Q1AV/jJ8YbK2tHFbM4=
+
+Name: res/drawable/zhuye_zhibo.xml
+SHA1-Digest: oJ+sgZPzdYphW4u+rHCdihYKYZQ=
+
+Name: res/drawable/zhuye_ziyuanzhan.xml
+SHA1-Digest: UF9df4/7sMq7r2CTWNJc3W1aYKM=
+
+Name: res/drawable/zhuye_zongyi.xml
+SHA1-Digest: Qd0YgtRQ3EY31Sfg4jb1h26p8y0=
+
+Name: res/drawable/zxing_code_bg.png
+SHA1-Digest: G4Q6WfPUT6pfduN/6Snewxv8IF8=
+
+Name: res/drawable/zxing_line.png
+SHA1-Digest: CJ206ELfuvH2Z+ZBuNzncXUZ68U=
+
+Name: res/layout-v21/mz_buffering.xml
+SHA1-Digest: H/lf/I7w0XQoggFkOQcEcIIfXcE=
+
+Name: res/layout/activity_capture.xml
+SHA1-Digest: jWgd2VEQVoTn6R224QBM4BonHnE=
+
+Name: res/layout/bofang.xml
+SHA1-Digest: dv4wPdh1l28B6H44AXL6eZ/7ZdA=
+
+Name: res/layout/devices_listview.xml
+SHA1-Digest: mlv64RwjKz9YfFodOWTSpwrYLUM=
+
+Name: res/layout/liebiao.xml
+SHA1-Digest: wD8CLN/X9NUQYAwzikrIEa0fyZA=
+
+Name: res/layout/liulanqi.xml
+SHA1-Digest: 5rIEXeePuXRHAocf00L2GTSbYI8=
+
+Name: res/layout/mainwin.xml
+SHA1-Digest: zvbVoNKkPzYL5CdBsCwDzkAWQBA=
+
+Name: res/layout/mz_buffering.xml
+SHA1-Digest: 9KSd7XmZc50WRxBahH8V2zmonUI=
+
+Name: res/layout/mz_controller.xml
+SHA1-Digest: 9PTBdfmK+MVRe7EB2N33DigwWgA=
+
+Name: res/layout/mz_controller_bottom.xml
+SHA1-Digest: B8uhkhqsHAWv8SGmdw5yCXu/RwA=
+
+Name: res/layout/mz_controller_top.xml
+SHA1-Digest: uMvX+OJ2AI3SRlHyVGlu3ncoTsg=
+
+Name: res/layout/mz_progress.xml
+SHA1-Digest: 3IDhn5vPB5G4WcJqLwb3z0X7e10=
+
+Name: res/layout/mz_seek.xml
+SHA1-Digest: M83MI7NXFaMw+BDCDAu2g1CcO90=
+
+Name: res/layout/mz_vl.xml
+SHA1-Digest: 9M262IWhgZnBHl1z2YMLeE8esqA=
+
+Name: res/layout/piantoubuju.xml
+SHA1-Digest: eWC94dhiO+lpHNlNhtgx2/GTi1Q=
+
+Name: res/layout/sbofang.xml
+SHA1-Digest: VYjyBsu8aXcHZAKhvce4NYw7ED0=
+
+Name: res/layout/shezhi.xml
+SHA1-Digest: lsGjcORtc6/WiAlJSrMYve/T+6E=
+
+Name: res/layout/shezhibuju.xml
+SHA1-Digest: OPXTInyDQFmITCwCYfIR5nJWlxE=
+
+Name: res/layout/shezhitanchubuju.xml
+SHA1-Digest: 7se2ycCJP8amLsb0abQZ9fNMXSE=
+
+Name: res/layout/shezhixuanzebuju.xml
+SHA1-Digest: gyiH1Ld3nwEuEm9D9WHZGHNnrdc=
+
+Name: res/layout/shoucang.xml
+SHA1-Digest: /tpZgQTShsD7k5Hwn4xeA8A9ul8=
+
+Name: res/layout/sliebiao.xml
+SHA1-Digest: dBs4d0cNcFtd57s8QYLO2CmWCLA=
+
+Name: res/layout/sousuo.xml
+SHA1-Digest: E1d/Ta67hkvoaJiOexK9kdD5Xao=
+
+Name: res/layout/sshezhi.xml
+SHA1-Digest: G5JNzPcdvzWJk9dCV3JxKfCacj0=
+
+Name: res/layout/sshoucang.xml
+SHA1-Digest: QyXMzsV2zvkvKWIP7r+6e81UVzA=
+
+Name: res/layout/ssousuo.xml
+SHA1-Digest: 32sOMUmos2kAEMqsB6V7JaCEX40=
+
+Name: res/layout/szhuye.xml
+SHA1-Digest: cwXOp46OLoelYgyiZ8MZt5cKPgo=
+
+Name: res/layout/tanchubuju.xml
+SHA1-Digest: LFM65bP8XRxLiHIg6TGo29bxvEE=
+
+Name: res/layout/tanchumianze.xml
+SHA1-Digest: 1je9czUTxvw1ccsofegiCqx3Xyk=
+
+Name: res/layout/vcn_superlistbox_layout.xml
+SHA1-Digest: 0k4vnsFyo71EuNHkyw4UdoxS5HE=
+
+Name: res/layout/vcnlibs_layout_imglistbox.xml
+SHA1-Digest: WjafxQBWJqudigBxpCbmJGKmLaQ=
+
+Name: res/layout/wuqu.xml
+SHA1-Digest: 2dcQCBpgtHlvp0cNUna0z8GmeGE=
+
+Name: res/layout/ycbuju.xml
+SHA1-Digest: OxWwexfqVPNmT+q+iiNLbIC7fGc=
+
+Name: res/layout/zanzhu.xml
+SHA1-Digest: b1iehe0JbRLGF3CCaXVCn2BLTVs=
+
+Name: res/layout/zhibo.xml
+SHA1-Digest: UFd8yzfYJBQ49gEp65jL84Xqvgw=
+
+Name: res/layout/zhuye.xml
+SHA1-Digest: dEwpcRZit2Y9Bgf0M53lz4zs8Sc=
+
+Name: res/raw/beep.ogg
+SHA1-Digest: GlIsg8mvi6v0saqDdV7ZN0KoFcY=
+
+Name: res/xml/network_security_config.xml
+SHA1-Digest: TqfdK/0z/+x1DZLpqjaD5KxOl2Q=
+
+Name: resources.arsc
+SHA1-Digest: Kxk4rY8P0E8mIQiE9WyPVpA7Ks4=
+
