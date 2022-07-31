@@ -49,11 +49,11 @@
 "sites":[
 
 
-{"key": "演唱会","name": "🌈吾爱演唱会(新增到QQ频道“吾爱有三日月与卿”反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/534/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0"},
+{"key": "演唱会","name": "🌈吾爱演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/534/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0"},
 
-{"key": "MV","name": "🌈吾爱MV(频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/784/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0"},
+{"key": "MV","name": "🌈吾爱MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/784/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0"},
 
-{"key": "学堂","name": "🍉吾爱学堂（频道反馈）","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/1572/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820728.json?sign=sAoPoteKCSFCQTMrS2KMn4EbDHf31-tLb6MPu32MO9o%3D%3A0"},
+{"key": "学堂","name": "🍉吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/1572/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820728.json?sign=sAoPoteKCSFCQTMrS2KMn4EbDHf31-tLb6MPu32MO9o%3D%3A0"},
 
 
 {"key":"酷猫","name":"🐞吾爱酷猫(多JAR仅支持Pluto)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"spider": "http://52bsj.vip:81/api/v3/file/get/815/0724.jar?sign=gi7Hl4-16Apupyw3OD7i4vqUCapcenQIYLC2CuyHWUw%3D%3A0"},
@@ -71,7 +71,7 @@
 
 
 
-{"key": "EXCEL","name": "🌈吾爱Excel(频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/804/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0"},
+{"key": "EXCEL","name": "🌈吾爱Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/804/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0"},
 
 
 {"key": "足球","name": "⚽️吾爱足球(频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/780/%E7%90%83%E6%98%9F-%E5%93%94%E5%93%A90721.json?sign=VMaEC4RO2aBcskY1fgOuhEtfG88uQpiwN1DyjYZGPiE%3D%3A0"},
@@ -82,7 +82,7 @@
 {"key": "戏曲","name": "🅰️吾爱戏曲(频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/519/%E6%88%8F%E6%9B%B20723.json?sign=ngeZFFyT8EO0PacgodQnJmLlFv1K9VIKt6e9jP1TLpo%3D%3A0"},
 
 
-{"key": "Kuaikan","name": "👀🌈公众号：吾爱有三日月与卿快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": "👀🌈快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 
