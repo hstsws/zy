@@ -715,7 +715,7 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8?$全网标清576P
 CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8?$全网标清576P
 
 
-菜鸟💋频道_1,#genre#
+菜鸟💋频道,#genre#
 Exstasy HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 C人直播,http://46.174.83.66/Russkaya_Noch/video.m3u8
 M豆传媒269,https://video2.51daao.com/btt1/2021/01/20210116/gPuFVXQX/index.m3u8 
