@@ -1244,7 +1244,7 @@ Dreamworks,mitv://ns2.hellotvvod.com:9906/77bb5638042a441eb557cc45601cca09.ts
 Baby TV,mitv://ns2.hellotvvod.com:9906/bb93f0eba58c48e28f9381231f8b87d5.ts
 Hands Up,mitv://ns2.hellotvvod.com:9906/43e47c450cfe4b8cb84363a3263af579.ts
 
-传媒,#genre#
+传媒_8888,#genre#
 🍓7传媒01,https://8bb88.cdnedge.live/file/avple-images/hls/62c16979b70f0f5e88542c51/playlist.m3u8
 🍓7传媒02,https://u89ey.cdnedge.live/file/avple-images/hls/62c168c8b70f0f5e88542c50/playlist.m3u8
 🍓7传媒03,https://d862cp.cdnedge.live/file/avple-images/hls/62c049e68a72962dc53aa5a2/playlist.m3u8
