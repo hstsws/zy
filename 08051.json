@@ -1,7 +1,8 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
  
-  "spider": "https://ygyzy.github.io/api/jar/TVBox.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+  //"spider": "https://ygyzy.github.io/api/jar/TVBox.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+    "spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/top95.jar",
 
   "sites": [
     {
