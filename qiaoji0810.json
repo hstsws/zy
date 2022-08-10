@@ -20,7 +20,15 @@
 		"searchable": 1,
 		"ext": ""
 	},
-	{"key": "csp_9E03","name":"🐞9E国语","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/9e03.jar"},
+	{"key": "csp_9E03",
+	"name":"🐞9E国语",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod",
+	"jar":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/9e03.jar"},
 	{
 	"key": "Lezhu_spider",
 	"name": "🐞乐猪影视",
