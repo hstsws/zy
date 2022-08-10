@@ -687,11 +687,7 @@
       "type": 1,
       "url": "http://120.233.84.226:5612/tvjx/?url="
     },
-   {
-      "name": "aiku",
-      "type": 1,
-      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
-    },
+   //{      "name": "aiku",      "type": 1,      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="    },
     {
       "name": "nxflv",
       "type": 1,
