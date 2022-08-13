@@ -1263,6 +1263,35 @@ Baby TV,mitv://ns2.hellotvvod.com:9906/bb93f0eba58c48e28f9381231f8b87d5.ts
 Hands Up,mitv://ns2.hellotvvod.com:9906/43e47c450cfe4b8cb84363a3263af579.ts
 
 传媒_8888,#genre#
+歐美二,p2p://fccs.word-tv.com:9906/62c7c8780004d2ba0adcea1fd011de8e
+歐美三,p2p://fccs.word-tv.com:9906/62c7c8cb0008dcf50ade2f602a0f4a7b
+松視1,p2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2,p2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3,p2p://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+潘朵拉完美台,p2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+HAPPY,p2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+驚豔台,p2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+香蕉台,p2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+極限台,p2p://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+彩虹電影,p2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+LOOK,p2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+彩虹e台,p2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057	
+香草天道,p2p://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
+性愛教主,p2p://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
+ＶＥＮＵＳ ,p2p://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+做愛特教班 ,p2p://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
+奶奶按摩店 ,p2p://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
+AV女王 ,p2p://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
+人妻不倫 ,p2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
+水多多 ,p2p://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
+近親相姦 ,p2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
+彩虹通道 ,p2p://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
+PLAYBOY HD,p2p://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
+KMP 頻道 ,p2p://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
+午夜蓝 ,p2p://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
+櫻桃 ,p2p://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
+大學女援交妹 ,p2p://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
+做愛輸入 ,p2p://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
 🍓7传媒01,https://8bb88.cdnedge.live/file/avple-images/hls/62c16979b70f0f5e88542c51/playlist.m3u8
 🍓7传媒02,https://u89ey.cdnedge.live/file/avple-images/hls/62c168c8b70f0f5e88542c50/playlist.m3u8
 🍓7传媒03,https://d862cp.cdnedge.live/file/avple-images/hls/62c049e68a72962dc53aa5a2/playlist.m3u8
