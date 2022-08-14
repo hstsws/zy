@@ -5,7 +5,8 @@
   "spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/top95.jar",
 
   "sites": [
-    {"key":"csp_Nbys","name":"👑泥巴[翻墙]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/95369149/TVBox/raw/branch/main/top95.jar"},
+    {"key":"csp_Nbys","name":"👑泥巴[翻墙]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,
+    "jar":"https://gitea.com/tswshs/TVBox/raw/branch/main/top95.jar"},
    { name: "小棉袄仓库",
         url: "http://pan.haikuoshijie.cn/",
     }, 
