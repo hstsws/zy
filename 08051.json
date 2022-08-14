@@ -7,28 +7,8 @@
   "sites": [
     {"key":"csp_Nbys","name":"👑泥巴[翻墙]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,
     "jar":"https://gitea.com/tswshs/TVBox/raw/branch/main/top95.jar"},
-   { name: "小棉袄仓库",
-        url: "http://pan.haikuoshijie.cn/",
-    }, 
-    {
-        name: "嗨翻",
-        url: "https://pan.hikerfans.com/",
-    }, 
-    {
-        name: "非盘",
-        url: "http://www.feifwp.top/,"
-    }, 
-    {
-        name: "姬路白雪",
-        url: "https://pan.jlbx.xyz/",
-    },
-     {
-        name: "听闻",
-        url: "https://wangpan.sangxuesheng.com/",
-    },
-     {
-        name: "Joe自用",
-        url: "http://8.219.150.174:5244/"},
+   
+   
     {
       "key": "csp_QQ",
       "name": "🐧腾讯〔SP〕",
