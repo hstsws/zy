@@ -1,5 +1,6 @@
-﻿{
-  "spider": "http://tvmvip110.live/down.php/e43a84197bf0dcac50990fbc7f2ca470.jar",
+{
+ // "spider": "http://tvmvip110.live/down.php/e43a84197bf0dcac50990fbc7f2ca470.jar",
+  "spider": "https://gitcode.net/weixin_47204356/zy/-/blob/master/fuli/tvbox1.jar",
   "sites": [
     {
       "key": "csp_xpath_扛把子影院",
