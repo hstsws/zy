@@ -1,4 +1,5 @@
 ff0795bb6fff46ff83d45548492ec363
+28801b1dbaf4418fb7bc221a575703dd：巧计https://gitea.com/qiaoji/jar/raw/branch/main/token.txt
 
 //07044.jar 添加外置token小白教程
 
