@@ -1,4 +1,3 @@
-
 {
     "sites": [     
          {
@@ -896,6 +895,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://gitee.com/rayb/a1/raw/master/jar/818.jar;md5;381a02b64a5bd9853369369c335b8018"
+       "spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/818.jar"
     
 }
