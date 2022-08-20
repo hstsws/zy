@@ -1,5 +1,11 @@
-ff0795bb6fff46ff83d45548492ec363
+235905ff399a4b4d96b7eeffb926742f
 28801b1dbaf4418fb7bc221a575703dd：巧计https://gitea.com/qiaoji/jar/raw/branch/main/token.txt
+refreshToken获取
+一、电脑：
+1 打开阿里云盘官网并登陆
+2 登录成功后，按F12打开开发者工具，点击Console，输入以下代码，并回车
+JSON.parse(window.localStorage.getItem("token"))["refresh_token"];
+控制台输出的一串字符就是你的refreshToken
 
 //07044.jar 添加外置token小白教程
 
