@@ -1,15 +1,16 @@
-{"spider":"https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/jar0826.jar",
-"wallpaper":"http://刚刚.live/图",
+{
+"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/jar0826.jar",
+"wallpaper": "http://刚刚.live/图",
 "lives": [{
- "group": "redirect",
-        "channels": [{
+        "group": "redirect",
+"channels": [{
             "name": "live",
-            "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="]
+"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="]
         }]
     }],
     "sites": [
         
- {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/bili.json"},
+        {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/bili.json"},
         {
             "key": "360_spider",
             "name": "️️360影视（SP官解）",
@@ -256,7 +257,7 @@
         {"key":"KanSJ_spider","name":"看视界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
         {"key":"293视频","name":"293视频（SP随缘修）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_AppYsV2","name":"优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
-        {"key":"csp_xpath_6d","name":"六度TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/6d.json"},
+        {"key":"csp_xpath_6d","name":"六度TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/6d.json"},
         {
             "key": "csp_biubiu_骚火电影",
             "name": "骚火电影",
@@ -265,9 +266,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/shdy.json"
+            "ext": "http://刚刚.live/jar2/tvjs/shdy.json"
         },
-//      {"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/czzy2.json"}, 
+//      {"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/czzy2.json"}, 
         {
             "key": "csp_biubiu_影视工厂",
             "name": "影视工厂",
@@ -276,9 +277,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/ysgc2.json"
+            "ext": "http://刚刚.live/jar2/tvjs/ysgc2.json"
         },
-    //  {"key":"csp_biubiu_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/555.json"},
+    //  {"key":"csp_biubiu_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/555.json"},
         {
             "key": "诺讯资源",
             "name": "诺讯资源（采集官解）",
@@ -302,7 +303,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/88kanqiu.json"
+            "ext": "http://刚刚.live/jar2/tvjs/88kanqiu.json"
         }, 
 
         {
@@ -313,7 +314,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/qiumi.json"
+            "ext": "http://刚刚.live/jar2/tvjs/qiumi.json"
         }, {
             "key": "csp_biubiu_斗鱼",
             "name": "斗鱼直播",
@@ -322,7 +323,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/douyu.json"
+            "ext": "http://刚刚.live/jar2/tvjs/douyu.json"
         }, {
             "key": "csp_xpath_huya",
             "name": "虎牙直播",
@@ -331,7 +332,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/huya2.json"
+            "ext": "http://刚刚.live/jar2/tvjs/huya2.json"
         }, {
             "key": "csp_xpath_kuqimv",
             "name": "经典MV",
@@ -340,7 +341,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/kuqimv.json"
+            "ext": "http://刚刚.live/jar2/tvjs/kuqimv.json"
         },
         {
             "key": "csp_xpath_jbb",
@@ -350,11 +351,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/jubaibai.json"
+            "ext": "http://刚刚.live/jar2/tvjs/jubaibai.json"
         },
-        {"key":"mtv_xp_789ba","name":"789影吧","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/789yb.json"},
-//      {"key":"csp_xpath_naifeiorg","name":"奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/naifeiorg.json"},
-//      {"key":"csp_xpath_yanetflix","name":"奈非鸭","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/yanaifei.json"},
+        {"key":"mtv_xp_789ba","name":"789影吧","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/789yb.json"},
+//      {"key":"csp_xpath_naifeiorg","name":"奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/naifeiorg.json"},
+//      {"key":"csp_xpath_yanetflix","name":"奈非鸭","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/yanaifei.json"},
         {
             "key": "csp_biubiu_真不卡cerrd",
             "name": "真不卡影院",
@@ -363,7 +364,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/zhenbuka.json"
+            "ext": "http://刚刚.live/jar2/tvjs/zhenbuka.json"
         }, {
             "key": "csp_biubiu_特狗影视",
             "name": "特狗影视",
@@ -372,7 +373,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/tgys.json"
+            "ext": "http://刚刚.live/jar2/tvjs/tgys.json"
         }, {
             "key": "csp_biubiu_蓝莓影视",
             "name": "蓝莓影视",
@@ -381,7 +382,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/lanmei.json"
+            "ext": "http://刚刚.live/jar2/tvjs/lanmei.json"
         },
         {
             "key": "考拉直链",
@@ -409,7 +410,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/meiju562.json"
+            "ext": "http://刚刚.live/jar2/tvjs/meiju562.json"
         },
         {
             "key": "csp_XPath_bidiys",
@@ -419,7 +420,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/bidiys2.json"
+            "ext": "http://刚刚.live/jar2/tvjs/bidiys2.json"
         },
         {
             "key": "小熊",
@@ -430,8 +431,8 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-        {"key":"csp_xpath_qiyou","name":"奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/qiyouxp.json"},
-//  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/qiyou.json"},
+        {"key":"csp_xpath_qiyou","name":"奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/qiyouxp.json"},
+//  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/qiyou.json"},
         {
             "key": "csp_biubiu_voflix",
             "name": "voflix",
@@ -440,7 +441,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/voflix.json"
+            "ext": "http://刚刚.live/jar2/tvjs/voflix.json"
         },
         {
             "key": "csp_biubiu_cupfox",
@@ -450,7 +451,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/cupfox.json"
+            "ext": "http://刚刚.live/jar2/tvjs/cupfox.json"
         },
         {
             "key": "csp_biubiu_yekong",
@@ -460,7 +461,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/yekong.json"
+            "ext": "http://刚刚.live/jar2/tvjs/yekong.json"
         },
         {
             "key": "csp_appysv2_M2_暖光影视",
@@ -472,7 +473,7 @@
             "filterable": 1,
             "ext": "https://app.bl210.com/api.php/v1.vod"
         },
-        {"key":"mtv_xp_jipinys","name":"极品影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/jipin.json"},
+        {"key":"mtv_xp_jipinys","name":"极品影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/jipin.json"},
         {
             "key": "多多资源",
             "name": "多多资源(切)",
@@ -496,7 +497,7 @@
             "searchable": 1,
             "quickSearch": 0
         },
-        {"key":"csp_xpath_xqmi","name":"小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/xqm.json"},
+        {"key":"csp_xpath_xqmi","name":"小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/xqm.json"},
         {
             "key": "csp_xpath_pianku",
             "name": "片库资源",
@@ -505,7 +506,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/pianku.json"
+            "ext": "http://刚刚.live/jar2/tvjs/pianku.json"
         },
         {
             "key": "影图",
@@ -526,8 +527,8 @@
             "filterable": 1,
             "ext": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"
         },
-        {"key":"mtv_xp_AGE","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/AGE.json"},
-        {"key":"mtv_xp_动漫岛源","name":"动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/dongmandao.json"},
+        {"key":"mtv_xp_AGE","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/AGE.json"},
+        {"key":"mtv_xp_动漫岛源","name":"动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/dongmandao.json"},
         {
             "key": "csp_biubiu_风车动漫",
             "name": "风车动漫",
@@ -536,7 +537,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/fengchedm.json"
+            "ext": "http://刚刚.live/jar2/tvjs/fengchedm.json"
         }, {
             "key": "csp_biubiu_OmoFun动漫",
             "name": "OmoFun动漫",
@@ -545,7 +546,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/0mofun.json"
+            "ext": "http://刚刚.live/jar2/tvjs/0mofun.json"
         }, {
             "key": "csp_biubiu_森屋新番",
             "name": "森屋新番",
@@ -554,7 +555,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/senwu.json"
+            "ext": "http://刚刚.live/jar2/tvjs/senwu.json"
         },
         {
             "key": "csp_xpath___动漫巴士",
@@ -564,7 +565,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/dm84.json"
+            "ext": "http://刚刚.live/jar2/tvjs/dm84.json"
         },
         
         {"key":"多多","name":"多多资源（采集有广告）","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
@@ -579,7 +580,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/tingbook.json"
+            "ext": "http://刚刚.live/jar2/tvjs/tingbook.json"
         },
         {
             "key": "Yiso",
@@ -610,7 +611,7 @@
             "filterable": 1,
             "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
         }, 
-        {"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/yinfans.json"},
+        {"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
         {
             "key": "push_agent",
             "name": ",
