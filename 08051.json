@@ -7,7 +7,7 @@
   //"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/top95.jar",
 
   "sites": [
-    {"key": "迷你","name": "迷你","type": 4,"api": "http://z.kooo.eu.org/api/t4/mini","searchable": 1,"quickSearch": 1,"filterable": 1},   
+     
     {"key":"csp_Nbys","name":"👑泥巴[翻墙]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,
     "jar":"https://gitea.com/tswshs/TVBox/raw/branch/main/top95.jar"},
     {"key":"csp_biubiu_新香蕉","name":"🏡新香蕉","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dlee2008/ltxxjs/src/branch/main/18/新香蕉.json"},
@@ -688,6 +688,7 @@
       "type": 3,
       "url": "Demo"
     },
+    {"name":"高速vip","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
     {
       "name": "Json并发",
       "type": 2,
