@@ -10,7 +10,7 @@
     }],
     "sites": [
         
-        {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/tvjs/bili.json"},
+        {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/tvjs/789yb.json"},
         {
             "key": "360_spider",
             "name": "️️360影视（SP官解）",
