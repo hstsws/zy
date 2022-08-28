@@ -1,11 +1,11 @@
 {
-    "spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/jar0826.jar",
-    "wallpaper": "http://刚刚.live/图",
-    "lives": [{
+"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/jar0826.jar",
+"wallpaper": "http://刚刚.live/图",
+"lives": [{
         "group": "redirect",
-        "channels": [{
+"channels": [{
             "name": "live",
-            "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="]
+"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="]
         }]
     }],
     "sites": [
