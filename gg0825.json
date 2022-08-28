@@ -1,8 +1,7 @@
-{
-    "spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/jar0826.jar",
-    "wallpaper": "http://刚刚.live/图",
-    "lives": [{
-        "group": "redirect",
+{"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/jar0826.jar",
+"wallpaper": "http://刚刚.live/图",
+"lives": [{
+ "group": "redirect",
         "channels": [{
             "name": "live",
             "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="]
@@ -10,7 +9,7 @@
     }],
     "sites": [
         
-        {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/bili.json"},
+ {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/gg0825/bili.json"},
         {
             "key": "360_spider",
             "name": "️️360影视（SP官解）",
