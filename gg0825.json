@@ -23,6 +23,7 @@
 			"quickSearch": 1,
 			"searchable": 1
 		}, 
+		{"key":"csp_xpath_yinfans","name":"💥音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 		{"key":"csp_77","name":"七七（稳快画质一般）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
 		{
 			"key": "csp_Wmkk",
