@@ -24,7 +24,7 @@
             "key": "t4public",
             "name": "📡T4",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=235905ff399a4b4d96b7eeffb926742f&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=28801b1dbaf4418fb7bc221a575703dd&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -33,7 +33,7 @@
             "key": "T4",
             "name": "📡T4_2",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=235905ff399a4b4d96b7eeffb926742f&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=28801b1dbaf4418fb7bc221a575703dd&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
