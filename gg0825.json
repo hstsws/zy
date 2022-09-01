@@ -24,7 +24,7 @@
             "key": "t4public",
             "name": "📡T4",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=28801b1dbaf4418fb7bc221a575703dd&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=d663712b04a54501b726c72561569fb7&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -33,13 +33,13 @@
             "key": "T4",
             "name": "📡T4_2",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=28801b1dbaf4418fb7bc221a575703dd&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=d663712b04a54501b726c72561569fb7&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
         },
 		{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-		{"key":"t5test","name":"T5测试","type":4,"api":"https://service-9nqtxo7b-1313513823.cd.apigw.tencentcs.com/release/vod?ali_token=3a49cf29cf20410997247c6eb4509be9","searchable":1,"quickSearch":1,"filterable":0}, 
+		{"key":"t5test","name":"T5测试","type":4,"api":"https://service-9nqtxo7b-1313513823.cd.apigw.tencentcs.com/release/vod?ali_token=d663712b04a54501b726c72561569fb7","searchable":1,"quickSearch":1,"filterable":0}, 
 		{"key":"csp_xpath_yinfans","name":"💥音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 		{"key":"csp_Alist1","name":"🐞Alist1Adult(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://xn--4bra.live/jar2/jar0828.jar","ext":"https://drive.9t.ee"},
  {
