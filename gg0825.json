@@ -1,8 +1,5 @@
-//无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
-//感谢各位隐姓埋名的大佬分享~
-//Q群：493192284（如果老哥们有分享精神，欢迎进群。。。）
 {
-	"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/jar0828.jar",
+	"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/jar/ts0829.jar",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
 		"group": "redirect",
@@ -14,6 +11,8 @@
 	"sites": [
 	    
 	    {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/bili.json"},
+		{"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/MeowXB/UM.json"},
+		{"key":"csp_xpath_007","name":"玲玲七(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_47204356/zy/-/raw/master/MeowXB/007.json"},
 	    {
 			"key": "360_spider",
 			"name": "️️360影视（SP官解）",
@@ -23,6 +22,164 @@
 			"quickSearch": 1,
 			"searchable": 1
 		}, 
+		{
+            "key": "t4public",
+            "name": "📡T4",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=d663712b04a54501b726c72561569fb7&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "T4",
+            "name": "📡T4_2",
+            "type": 4,
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=d663712b04a54501b726c72561569fb7&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+		{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+		{"key":"t5test","name":"T5测试","type":4,"api":"https://service-9nqtxo7b-1313513823.cd.apigw.tencentcs.com/release/vod?ali_token=d663712b04a54501b726c72561569fb7","searchable":1,"quickSearch":1,"filterable":0}, 
+		{"key":"csp_xpath_yinfans","name":"💥音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
+		{"key":"csp_Alist1","name":"🐞Alist1Adult(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://xn--4bra.live/jar2/jar0828.jar","ext":"https://drive.9t.ee"},
+ {
+  "key": "csp_Alist2",
+  "name": "Alist2(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"http://xn--4bra.live/jar2/jar0828.jar",
+  "ext": "https://alist.52qy.repl.co"
+},
+ {"key": "csp_Alist3",
+  "name": "Alist3(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  jar":"http://xn--4bra.live/jar2/jar0828.jar",
+  "ext": "https://wangpan.sangxuesheng.com"},
+  {
+  "key": "csp_Alist4",
+  "name": "Alist4非盘(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"http://xn--4bra.live/jar2/jar0828.jar",
+  "ext": "http://www.feifwp.top"
+},
+{"key": "csp_Alist5",
+  "name": "Alist5一只鱼(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://alist.youte.ml"
+ },
+ {"key": "csp_Alist6",
+  "name": "Alist6小棉袄仓库(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "http://pan.haikuoshijie.cn"
+ },
+  {"key": "csp_Alist7",
+  "name": "Alist7嗨翻(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://pan.hikerfans.com"
+ },
+   {"key": "csp_Alist8",
+  "name": "Alist8姬路白雪(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://pan.jlbx.xyz"
+ },
+  {"key": "csp_Alist9",
+  "name": "Alist9听闻(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://wangpan.sangxuesheng.com"
+ },
+   {"key": "csp_Alist10",
+  "name": "Alist10Joe自用(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "http://8.219.150.174:5244"
+ },
+ {"key": "csp_Alist11",
+  "name": "Alist11七米蓝(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://al.chirmyram.com"
+ },
+
+ {"key": "csp_Alist12",
+  "name": "Alist12神族九帝(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://alist.shenzjd.com"
+ },
+ {"key": "csp_Alist13",
+  "name": "Alist13菊花盘(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+   "jar":"http://xn--4bra.live/jar2/jar0828.jar",
+  "ext": "https://pan.142856.xyz"
+ },
+ {
+  "key": "csp_Alist14",
+  "name": "Alist14讯维云盘",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://pan.xwbeta.com"
+ },
+{
+  "key": "csp_Alist15",
+  "name": "Alist15梓澪の妙妙屋",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://xn--i0v44m.xyz/"
+ },
+
+
 		{"key":"csp_77","name":"七七（稳快画质一般）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
 		{
 			"key": "csp_Wmkk",
