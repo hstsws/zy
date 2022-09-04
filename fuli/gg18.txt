@@ -251,7 +251,7 @@
 "wasu",
 "bilibili"
 ],
-"spider": "https://agit.ai/lem85930/LEM/raw/branch/master/JARS/07044.jar",
+"spider": "https://gitcode.net/weixin_47204356/zy/-/raw/master/fuli/07044.jar",
 "ijk": [
 {
 "group": "软解码",
