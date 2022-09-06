@@ -22,25 +22,27 @@
 			"quickSearch": 1,
 			"searchable": 1
 		}, 
-	{"key":"Alist0","name":"嗨翻","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.hikerfans.com"},
-{"key":"Alist1","name":"菊花盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.142856.xyz"},
+	"drives": [
+                {"name":"米奇妙妙屋","server":"https://anime.mqmmw.ga","userName":"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"小光盘","server":"https://alist.xiaoguanxiaocheng.life","userName":"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"帅盘","server":"https://hi.shuaipeng.wang","userName":"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"资源小站","server":"https://pan.142856.xyz","userName":"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"晴园的宝藏库","server":"https://alist.52qy.repl.co","userName":"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"嗨翻","server":"https://pan.hikerfans.com","userName":"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"一只鱼","server":"https://alist.youte.ml","userName":""
+,"password":"","plugin":"alist","type":"plugin"},
+                {"name":"听闻网盘","server":"https://wangpan.sangxuesheng.com","
+userName":"","password":"","plugin":"alist","type":"plugin"},                                   {"name":"菊花盘","server":"https://pan.142856.xyz","userName":""
+,"password":"","plugin":"alist","type":"plugin"},                                               {"name":"神族九帝","server":"https://alist.shenzjd.com","userNam
+e":"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"路白雪の资源小站","server":"https://pan.jlbx.xyz","user
+Name":"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"七米蓝","server":"https://al.chirmyram.com","userName":
+"","password":"","plugin":"alist","type":"plugin"},
+                {"name":"自建","server":"http://192.168.10.10:5244","userName":"
+","password":"","plugin":"alist","type":"plugin"}
 
-{"key":"Alist2","name":"听闻网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wangpan.sangxuesheng.com"},
-{"key":"Alist3","name":"神族九帝","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://alist.shenzjd.com"},
-{"key":"Alist4","name":"七米蓝","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://al.chirmyram.com"},
-{"key":"Alist5","name":"米奇妙妙屋","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://anime.mqmmw.ga"},
-{"key":"Alist6","name":"路白雪の资源小站","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.jlbx.xyz"},
-
-{"key":"Alist7","name":"一个网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://drive.9t.ee"},
-{"key":"csp_Alist8","name":"Alist_一只鱼(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
-{"key":"csp_Alist9","name":"Alist_嗨翻(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"},
-{"key":"csp_Alist10","name":"Alist_晴园(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.52qy.repl.co"},
-{"key":"csp_Alist11","name":"资源小站","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://960303.xyz/"},
-{"key":"csp_Alist12","name":"Alist_七米蓝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com"},
-{"key":"csp_Alist13","name":"Alist_神族九帝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.shenzjd.com"},
-{"key":"csp_Alist14","name":"小光盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.xiaoguanxiaocheng.life"},{"key":"csp_Alist8","name":"菊花盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.142856.xyz"},{"key":"csp_Alist9","name":"帅盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://hi.shuaipeng.wang"},
-{"key":"csp_Alist15","name":"轻谈浅唱","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://g.xiang.lol"},
-       
+        ],
 		{"key":"csp_xpath_yinfans","name":"💥音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 	
 
