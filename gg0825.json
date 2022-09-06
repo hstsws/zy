@@ -22,21 +22,7 @@
 			"quickSearch": 1,
 			"searchable": 1
 		}, 
-	"drives": [
-                {"name":"米奇妙妙屋","server":"https://anime.mqmmw.ga","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"小光盘","server":"https://alist.xiaoguanxiaocheng.life","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"帅盘","server":"https://hi.shuaipeng.wang","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"资源小站","server":"https://pan.142856.xyz","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"晴园的宝藏库","server":"https://alist.52qy.repl.co","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"嗨翻","server":"https://pan.hikerfans.com","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"一只鱼","server":"https://alist.youte.ml","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"听闻网盘","server":"https://wangpan.sangxuesheng.com","userName":"","password":"","plugin":"alist","type":"plugin"},   
-				{"name":"菊花盘","server":"https://pan.142856.xyz","userName":"","password":"","plugin":"alist","type":"plugin"},                      
-                {"name":"路白雪の资源小站","server":"https://pan.jlbx.xyz","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"七米蓝","server":"https://al.chirmyram.com","userName":"","password":"","plugin":"alist","type":"plugin"},
-                {"name":"自建","server":"http://192.168.10.10:5244","userName":"","password":"","plugin":"alist","type":"plugin"}
-
-        ],
+	
 		{"key":"csp_xpath_yinfans","name":"💥音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 	
 
