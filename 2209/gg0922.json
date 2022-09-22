@@ -1,7 +1,10 @@
 {"sites":[
 "spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/999.png;md5;E787FC9C9771E21FDA57374EF3B64A65",
 "wallpaper":"https://tool.weetai.cn/api",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yNjg5ODIzMS9UVkJveC8tL3Jhdy9tYWluL2xpdmUvemIudHh0"]}]}],
+"lives":[
+    {"group":"redirect",
+    "channels":[
+    {"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yNjg5ODIzMS9UVkJveC8tL3Jhdy9tYWluL2xpdmUvemIudHh0"]}]}],
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🖼图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -107,8 +110,11 @@
 {"key":"多多","name":"🐶多多影视","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},{"key":"鑫总资源","name":"☔鑫总资源","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},{"key":"QC 影视","name":"🤠QC 影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
 {"key":"玖卿乐播","name":"🧯玖卿乐播","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
 {"key":"尘云影视","name":"☁尘云影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://v.i7yc.cn/api.php/v1.vod"},{"key":"万能影院","name":"💳万能影院","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
-{"key":"波比影视","name":"🍠波比影视","type":1,"api":"http://xxhhsc.top/api.php/provide/vod/","searchable":1,"quickSearch":1},{"key":"多多资源","name":"🍊多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},{"key":"多多资源2","name":"🥬多多资源","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"每天看看","name":"🍌每天看看","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","searchable":0,"quickSearch":0},{"key":"木子看剧","name":"🍒木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"波比影视","name":"🍠波比影视","type":1,"api":"http://xxhhsc.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"多多资源","name":"🍊多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"多多资源2","name":"🥬多多资源","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"每天看看","name":"🍌每天看看","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"木子看剧","name":"🍒木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"考拉资源","name":"🍈考拉资源","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"忆梦资源","name":"🥕忆梦资源","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"天堂资源","name":"🌶天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
