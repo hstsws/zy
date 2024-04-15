@@ -673,6 +673,15 @@
       "quickSearch": 0
     },
     {
+      "key": "♥️鸡坤资源",
+      "name": "♥️鸡坤资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "*色南国资源",
       "name": "*色南国资源",
       "type": 1,
