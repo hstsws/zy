@@ -1,0 +1,55 @@
+[
+  {
+    "bookSourceGroup": "影视频源 🎬,特殊书源 🔞",
+    "bookSourceName": "🎬🔞黄果剧场",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://huangguoai.fit",
+    "bookUrlPattern": "https?://huangguo\\.fit/(?:video|series|photo|role)/[a-z0-9-]+",
+    "concurrentRate": "1/1000",
+    "customOrder": 2,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "exploreUrl": "@js:var A=[['全部视频','https://huangguoai.fit/videos?page={{page}}'],['MV/音乐剧','https://huangguoai.fit/videos?category=1&page={{page}}'],['短片','https://huangguoai.fit/videos?category=2&page={{page}}'],['连续剧','https://huangguoai.fit/videos?category=3&page={{page}}'],['片段','https://huangguoai.fit/videos?category=4&page={{page}}'],['都市','https://huangguoai.fit/videos?tags=1&page={{page}}'],['人妻','https://huangguoai.fit/videos?tags=2&page={{page}}'],['古风','https://huangguoai.fit/videos?tags=7&page={{page}}'],['乱伦','https://huangguoai.fit/videos?tags=8&page={{page}}'],['图集-全部','https://huangguoai.fit/photos?page={{page}}'],['图集-都市','https://huangguoai.fit/photos?tags=1&page={{page}}'],['图集-同人','https://huangguoai.fit/photos?tags=4&page={{page}}'],['角色-最新','https://huangguoai.fit/roles'],['角色-作品','https://huangguoai.fit/roles?sort=works'],['角色-播放','https://huangguoai.fit/roles?sort=views']].map(function(x){return{title:x[0],url:x[1],style:{layout_flexBasisPercent:0.33}}});result=JSON.stringify(A);",
+    "header": "{\"User-Agent\": \"Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36\", \"Referer\": \"https://huangguoai.fit/\"}",
+    "lastUpdateTime": 1792471976302,
+    "loginCheckJs": "(function(){try{var b=String(result.body());if(b.indexOf('Attention Required')>-1||b.indexOf('you have been blocked')>-1){throw new Error('站点被 Cloudflare 拦截，请稍后重试');}if(b.indexOf('<!DOCTYPE')===0&&b.indexOf('黄果剧场')===-1){throw new Error('站点响应异常，可能域名已失效');}}catch(e){if(e instanceof Error){throw e;}}return result;})()",
+    "loginUi": "@js:var all=[];all.push({'name':'检查站点连接','type':'button','action':'checkConn()','style':{'layout_flexGrow':1,'layout_flexBasisPercent':1}});all.push({'name':'本站无需登录，可直接搜索浏览','type':'text','style':{'layout_flexGrow':1,'layout_flexBasisPercent':1}});result=JSON.stringify(all);",
+    "loginUrl": "var HOST='https://huangguoai.fit';function checkConn(){try{var r=java.get(HOST+'/');var s=String(r.body?r.body():r);if(s.indexOf('Attention Required')>-1||s.indexOf('you have been blocked')>-1){java.longToast('被 Cloudflare 拦截，请更换网络环境后重试');return;}if(s.indexOf('黄果剧场')>-1){java.longToast('站点连接正常，无需登录');}else{java.longToast('站点响应异常，可能域名已失效');}}catch(e){java.longToast('连接失败：'+e);}}function login(){try{java.upLoginData();}catch(e){}java.toast('黄果剧场无需登录，直接使用');}",
+    "respondTime": 6955,
+    "ruleBookInfo": {
+      "author": "@js:(function(){var r=Packages.org.jsoup.Jsoup.parse(String(result));var n=r.select('.uploader-row .name').first();if(n&&n.text())return n.text();var m=r.select('meta[property=og:description]').first();if(!m)return'';var mm=m.attr('content').match(/(.+?)出品/);return mm?mm[1]:'';})()",
+      "coverUrl": "@js:(function(){var r=Packages.org.jsoup.Jsoup.parse(String(result));var m=r.select('meta[property=og:image]').first();if(!m)return'';var s=m.attr('content');return s.indexOf('http')===0?s:('https://huangguoai.fit'+s);})()",
+      "intro": "@js:(function(){var r=Packages.org.jsoup.Jsoup.parse(String(result));var u=String(baseUrl||'');var m=r.select('meta[property=og:description]').first();var d=m?m.attr('content'):'';if(u.indexOf('/series/')>-1){var n=r.select('[data-episode-list] a[href^=/video/]').size();var h1=r.select('h1').first();var info=(h1?h1.text():'')+' · 共'+n+'集';return'<useweb><div style=text-align:center;padding:10px;font-size:15px;color:#F0B24A>'+info+'</div><div style=text-align:center;padding:4px><button type=button style=background:#F0B24A;color:#16130F;border:none;border-radius:20px;padding:10px;font-size:14px onclick=java.longToast(&#39;请到目录中选择剧集观看&#39;)>📺 观看提示</button></div></useweb>';}return d;})()",
+      "kind": "@js:(function(){var r=Packages.org.jsoup.Jsoup.parse(String(result));var u=String(baseUrl||'');var m=r.select('meta[property=og:description]').first();var d=m?m.attr('content'):'';if(u.indexOf('/role/')>-1){var m2=d.match(/女[0-9]+岁|男[0-9]+岁/);return m2?m2[0]:'AI角色';}var tags=r.select('.tag-row a.plot-tag');var arr=[];for(var i=0;i<tags.size();i++){var t=tags.get(i).text();if(t)arr.push(t);}var mm=d.match(/黄果剧场的([^，,]+)/);if(mm&&arr.indexOf(mm[1])<0)arr.unshift(mm[1]);return arr.join(' / ');})()",
+      "lastChapter": "@js:(function(){var r=Packages.org.jsoup.Jsoup.parse(String(result));var u=r.select('.uploader-row').first();if(!u)return'';var t=u.text(),i=t.lastIndexOf(' · ');return i>0?t.substring(i+3):t;})()",
+      "name": "@js:(function(){var r=Packages.org.jsoup.Jsoup.parse(String(result)),m=r.select('meta[property=og:title]').first();if(!m)return'';var t=m.attr('content'),i=t.indexOf(' · ');return i>0?t.substring(0,i):t;})()"
+    },
+    "ruleContent": {
+      "content": "@js:(function(){var u=String(baseUrl||'');function abs(h){if(!h)return'';if(h.indexOf('http')===0)return h;return'https://huangguoai.fit'+h;}var Q=String.fromCharCode(34);if(u.indexOf('/photo/')>-1){var d=Packages.org.jsoup.Jsoup.parse(String(result));var seen={};var urls=[];var f=d.select('img[src*=/display/]').first();if(f){var s0=abs(f.attr('src'));if(s0&&!seen[s0]){seen[s0]=1;urls.push(s0);}}var sl=d.select('.slide[data-src]');for(var i=0;i<sl.size();i++){var s=abs(sl.get(i).attr('data-src'));if(s&&!seen[s]){seen[s]=1;urls.push(s);}}if(urls.length===0)return'图集加载失败，可能页面结构已变化';var h='<div style=text-align:center;padding:4px>';for(var j=0;j<urls.length;j++){h+='<img src='+Q+urls[j]+Q+' loading=lazy style=width:100%;max-width:520px;display:block;margin-top:10px;border-radius:8px>';}h+='<p style=color:#999;font-size:12px;text-align:center>共 '+urls.length+' 张</p></div>';return h;}try{java.startBrowser(u,'');}catch(e){}return'已尝试在浏览器打开视频播放页：'+u+String.fromCharCode(10)+'浏览器内可直接播放（连续剧请点选集切换剧集）';})()"
+    },
+    "ruleExplore": {
+      "author": "author",
+      "bookList": "@js:(function(){var d=(typeof result.select==='function')?result:Packages.org.jsoup.Jsoup.parse(String(result));var u=String(baseUrl||'');function abs(h){if(!h)return'';if(h.indexOf('http')===0)return h;return'https://huangguoai.fit'+h;}function bg(s){var i=s.indexOf('url(');if(i<0)return'';var j=s.indexOf(')',i);return j<0?'':s.substring(i+4,j);}var L=[];if(u.indexOf('/roles')>-1){var c=d.select('a.role-card');for(var i=0;i<c.size();i++){var e=c.get(i);var p=e.select('p').first();var sp=e.select('span');var info='';for(var k=0;k<sp.size();k++){var t=sp.get(k).text();if(info===''&&t.indexOf('岁')>-1)info=t;}var cd=e.select('.card-cover').first();L.push({name:p?p.text():'',url:abs(e.attr('href')),coverUrl:abs(bg(cd?cd.attr('style'):'')),kind:info,author:''});}return L;}var a=d.select('article a[href^=/video/],article a[href^=/series/],article a[href^=/photo/]');for(var i=0;i<a.size();i++){var e=a.get(i);var h=e.attr('href');var p=e.select('p').first();var im=e.select('img[src*=/uploads/]').first();var u2=e.select('a[href^=/user/]').first();var tp=h.indexOf('/photo/')>-1?'图集':(h.indexOf('/series/')>-1?'连续剧':'短片');L.push({name:p?p.text():'',url:abs(h),coverUrl:im?abs(im.attr('src')):'',kind:tp,author:u2?u2.text():''});}return L;})()",
+      "bookUrl": "url",
+      "coverUrl": "coverUrl",
+      "kind": "kind",
+      "name": "name"
+    },
+    "ruleSearch": {
+      "author": "@js:(function(){var r=(typeof result.select==='function')?result:Packages.org.jsoup.Jsoup.parse(String(result));var a=r.select('a[href^=/user/]').first();return a?a.text():'';})()",
+      "bookList": "article.search-content-card",
+      "bookUrl": "@js:(function(){var r=(typeof result.select==='function')?result:Packages.org.jsoup.Jsoup.parse(String(result));var a=r.select('a[href^=/video/],a[href^=/series/],a[href^=/photo/]').first();if(!a)return'';var h=a.attr('href');return h.indexOf('http')===0?h:('https://huangguoai.fit'+h);})()",
+      "coverUrl": "@js:(function(){var r=(typeof result.select==='function')?result:Packages.org.jsoup.Jsoup.parse(String(result));var i=r.select('img[src*=/uploads/]').first();if(!i)return'';var s=i.attr('src');return s.indexOf('http')===0?s:('https://huangguoai.fit'+s);})()",
+      "kind": "@js:(function(){var r=(typeof result.select==='function')?result:Packages.org.jsoup.Jsoup.parse(String(result));var ps=r.select('p');if(ps.size()<2)return'';return ps.get(ps.size()-1).text();})()",
+      "name": "@js:(function(){var r=(typeof result.select==='function')?result:Packages.org.jsoup.Jsoup.parse(String(result));var p=r.select('a p');return p.size()>0?p.get(0).text():'';})()"
+    },
+    "ruleToc": {
+      "chapterList": "@js:(function(){var d=Packages.org.jsoup.Jsoup.parse(String(result));var u=String(baseUrl||'');function abs(h){if(!h)return'';if(h.indexOf('http')===0)return h;return'https://huangguoai.fit'+h;}var o=[];if(u.indexOf('/series/')>-1){var e=d.select('[data-episode-list] a[href^=/video/]');for(var i=0;i<e.size();i++){var a=e.get(i);var p=a.select('p').first();o.push({title:p?p.text():a.attr('href'),url:abs(a.attr('href'))});}if(o.length>0)return o;}var h=d.select('h1').first();return[{title:h?h.text():u,url:u}];})()",
+      "chapterName": "title",
+      "chapterUrl": "url"
+    },
+    "searchUrl": "https://huangguoai.fit/search?q={{key}}",
+    "weight": 0
+  }
+]
